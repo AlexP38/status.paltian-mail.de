@@ -5,6 +5,12 @@ repo: status.paltian-mail.de # The name of this repository
 sites:
   - name: Start Up Cloud
     url: https://cloud.paltian.net
+  - name: Emoncms
+    url: https://temp.paltian.net
+  - name: Wollwerk
+    url: https://wollwerk.org
+  - name: Backup
+    url: https://borgcheck.paltian.net/borgcheck.txt
 
   - name: paltian-mail.de:443 (IPv4)
     url: paltian-mail.de
