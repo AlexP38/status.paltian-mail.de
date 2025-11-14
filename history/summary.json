@@ -59,18 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/borgcheck.paltian.net.ico",
     "slug": "backup",
     "status": "down",
-    "uptime": "5.04%",
-    "uptimeDay": "5.04%",
-    "uptimeWeek": "5.04%",
-    "uptimeMonth": "5.04%",
-    "uptimeYear": "5.04%",
+    "uptime": "4.01%",
+    "uptimeDay": "4.01%",
+    "uptimeWeek": "4.01%",
+    "uptimeMonth": "4.01%",
+    "uptimeYear": "4.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-14": 0
+      "2025-11-14": 1
     }
   },
   {
