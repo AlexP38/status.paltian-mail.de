@@ -6,10 +6,6 @@ sites:
   - name: Start Up Cloud
     url: https://cloud.paltian.net
 
-  - name: https://paltian-mail.de (curl)
-    url: https://paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-
   - name: paltian-mail.de:443 (IPv4)
     url: paltian-mail.de
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
@@ -21,10 +17,6 @@ sites:
     port: 443
     check: "tcp-ping"
     ipv6: false
-
-  - name: https://api.paltian-mail.de (curl)
-    url: https://api.paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
 
   - name: api.paltian-mail.de:443 (IPv4)
     url: api.paltian-mail.de
