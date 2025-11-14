@@ -22,18 +22,6 @@ sites:
     check: "tcp-ping"
     ipv6: false
 
-  - name: paltian-mail.de:80 (IPv4)
-    url: paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    port: 80
-    check: "tcp-ping"
-  - name: paltian-mail.de:80 (IPv6)
-    url: paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    port: 80
-    check: "tcp-ping"
-    ipv6: false
-
   - name: https://api.paltian-mail.de (curl)
     url: https://api.paltian-mail.de
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
@@ -47,18 +35,6 @@ sites:
     url: api.paltian-mail.de
     icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
     port: 443
-    check: "tcp-ping"
-    ipv6: false
-
-  - name: api.paltian-mail.de:80 (IPv4)
-    url: api.paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    port: 80
-    check: "tcp-ping"
-  - name: api.paltian-mail.de:80 (IPv6)
-    url: api.paltian-mail.de
-    icon: https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico
-    port: 80
     check: "tcp-ping"
     ipv6: false
 
