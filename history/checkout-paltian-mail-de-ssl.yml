@@ -1,7 +1,7 @@
 url: checkout.paltian-mail.de
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2025-11-15T05:53:24.882Z
+lastUpdated: 2025-11-15T06:01:02.902Z
 startTime: 2025-11-14T17:10:37.095Z
 generator: Upptime <https://github.com/upptime/upptime>
