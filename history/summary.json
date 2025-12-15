@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.paltian.net.ico",
     "slug": "start-up-cloud",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "95.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "84.53%",
-    "uptimeMonth": "94.96%",
-    "uptimeYear": "94.96%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "95.02%",
     "time": 1050,
     "timeDay": 855,
     "timeWeek": 851,
@@ -50,10 +50,10 @@
     "url": "paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "paltian-mail-de-443-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 123,
@@ -62,6 +62,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-17": 18
     }
   },
@@ -70,10 +71,10 @@
     "url": "paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "paltian-mail-de-443-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 122,
@@ -82,6 +83,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-17": 18
     }
   },
@@ -90,10 +92,10 @@
     "url": "api.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-paltian-mail-de-443-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
     "time": 122,
@@ -102,6 +104,7 @@
     "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-17": 18
     }
   },
@@ -110,10 +113,10 @@
     "url": "api.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-paltian-mail-de-443-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
@@ -121,7 +124,9 @@
     "timeWeek": 117,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-15": 1
+    }
   },
   {
     "name": "smtp.paltian-mail.de:465 (IPv4)",
@@ -164,10 +169,10 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 123,
@@ -176,6 +181,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-22": 25
     }
   },
@@ -184,10 +190,10 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
     "time": 123,
@@ -196,6 +202,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-22": 25
     }
   },
@@ -204,10 +211,10 @@
     "url": "imap.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-paltian-mail-de-993-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
@@ -215,17 +222,19 @@
     "timeWeek": 116,
     "timeMonth": 122,
     "timeYear": 123,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-15": 1
+    }
   },
   {
     "name": "imap.paltian-mail.de:993 (IPv6)",
     "url": "imap.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "imap-paltian-mail-de-993-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
@@ -233,17 +242,19 @@
     "timeWeek": 116,
     "timeMonth": 122,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-15": 1
+    }
   },
   {
     "name": "pop3.paltian-mail.de:995 (IPv4)",
     "url": "pop3.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-paltian-mail-de-995-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.87%",
     "time": 122,
@@ -252,6 +263,7 @@
     "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-12-15": 1,
       "2025-11-17": 18,
       "2025-11-15": 38
     }
@@ -261,9 +273,9 @@
     "url": "pop3.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-paltian-mail-de-995-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
@@ -273,6 +285,7 @@
     "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {
+      "2025-12-15": 0,
       "2025-11-15": 38
     }
   },
@@ -281,9 +294,9 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -293,6 +306,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-15": 0,
       "2025-11-22": 25
     }
   },
@@ -301,9 +315,9 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.94%",
@@ -313,6 +327,7 @@
     "timeMonth": 122,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-15": 0,
       "2025-11-22": 24
     }
   },
@@ -330,7 +345,7 @@
     "time": 122,
     "timeDay": 110,
     "timeWeek": 116,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
@@ -348,7 +363,7 @@
     "time": 121,
     "timeDay": 113,
     "timeWeek": 117,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -366,7 +381,7 @@
     "time": 121,
     "timeDay": 110,
     "timeWeek": 117,
-    "timeMonth": 120,
+    "timeMonth": 121,
     "timeYear": 121,
     "dailyMinutesDown": {}
   },
@@ -384,7 +399,7 @@
     "time": 122,
     "timeDay": 108,
     "timeWeek": 117,
-    "timeMonth": 121,
+    "timeMonth": 122,
     "timeYear": 122,
     "dailyMinutesDown": {}
   },
