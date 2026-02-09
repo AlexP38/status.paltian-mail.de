@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.paltian.net.ico",
     "slug": "start-up-cloud",
     "status": "up",
-    "uptime": "97.54%",
-    "uptimeDay": "97.07%",
+    "uptime": "97.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.03%",
-    "uptimeYear": "97.54%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "97.55%",
     "time": 1015,
-    "timeDay": 946,
+    "timeDay": 1140,
     "timeWeek": 969,
-    "timeMonth": 986,
+    "timeMonth": 990,
     "timeYear": 1015,
     "dailyMinutesDown": {
       "2026-02-08": 42,
@@ -442,10 +442,10 @@
     "url": "bree.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree-paltian-mail-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
@@ -453,7 +453,9 @@
     "timeWeek": 129,
     "timeMonth": 131,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-09": 1
+    }
   },
   {
     "name": "sqlite.paltian-mail.de",
