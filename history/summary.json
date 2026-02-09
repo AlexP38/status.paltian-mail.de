@@ -442,19 +442,19 @@
     "url": "bree.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/breejs/bree/master/favicon.ico",
     "slug": "bree-paltian-mail-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
     "time": 126,
-    "timeDay": 149,
-    "timeWeek": 129,
-    "timeMonth": 131,
+    "timeDay": 121,
+    "timeWeek": 125,
+    "timeMonth": 129,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-02-09": 1
+      "2026-02-09": 19
     }
   },
   {
