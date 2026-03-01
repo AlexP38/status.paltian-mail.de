@@ -397,19 +397,19 @@
     "url": "caldav.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-paltian-mail-de-443-i-pv6",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 126,
-    "timeDay": 156,
-    "timeWeek": 141,
-    "timeMonth": 131,
+    "timeDay": 124,
+    "timeWeek": 135,
+    "timeMonth": 129,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-03-01": 1
+      "2026-03-01": 13
     }
   },
   {
@@ -417,19 +417,19 @@
     "url": "carddav.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-paltian-mail-de-443-i-pv4",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 127,
-    "timeDay": 158,
-    "timeWeek": 141,
-    "timeMonth": 132,
+    "timeDay": 125,
+    "timeWeek": 135,
+    "timeMonth": 130,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-03-01": 1
+      "2026-03-01": 13
     }
   },
   {
@@ -437,19 +437,19 @@
     "url": "carddav.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-paltian-mail-de-443-i-pv6",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 159,
-    "timeWeek": 141,
-    "timeMonth": 131,
-    "timeYear": 127,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 126,
+    "timeDay": 126,
+    "timeWeek": 135,
+    "timeMonth": 130,
+    "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-03-01": 1
+      "2026-03-01": 12
     }
   },
   {
@@ -495,11 +495,11 @@
     "url": "paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "paltian-mail-de-443-ssl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
@@ -507,7 +507,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 1,
+      "2026-03-01": 13,
       "2025-11-15": 38
     }
   },
@@ -516,11 +516,11 @@
     "url": "api.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "api-paltian-mail-de-ssl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
@@ -528,7 +528,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 1,
+      "2026-03-01": 13,
       "2025-11-15": 38
     }
   },
@@ -537,11 +537,11 @@
     "url": "caldav.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-paltian-mail-de-ssl",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 1,
+      "2026-03-01": 13,
       "2025-11-15": 38
     }
   },
@@ -558,19 +558,19 @@
     "url": "carddav.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-paltian-mail-de-ssl",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 0,
+      "2026-03-01": 13,
       "2025-11-15": 38
     }
   },
@@ -597,19 +597,19 @@
     "url": "checkout.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "checkout-paltian-mail-de-ssl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 0
+      "2026-03-01": 13
     }
   }
 ]
