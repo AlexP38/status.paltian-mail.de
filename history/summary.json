@@ -67,9 +67,9 @@
     "url": "https://wollwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/wollwerk.org.ico",
     "slug": "wollwerk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -79,6 +79,7 @@
     "timeMonth": 963,
     "timeYear": 1133,
     "dailyMinutesDown": {
+      "2026-04-23": 0,
       "2026-02-13": 22,
       "2025-12-29": 88
     }
@@ -354,11 +355,11 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "pop3-paltian-mail-de-995-i-pv6",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "99.89%",
+    "uptimeYear": "99.90%",
     "time": 126,
     "timeDay": 137,
     "timeWeek": 136,
