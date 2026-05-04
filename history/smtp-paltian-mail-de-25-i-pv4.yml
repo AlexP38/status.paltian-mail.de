@@ -1,7 +1,7 @@
 url: smtp.paltian-mail.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-04T00:04:09.065Z
+status: up
+code: 200
+responseTime: 146
+lastUpdated: 2026-05-04T01:07:56.293Z
 startTime: 2025-11-14T17:02:08.649Z
 generator: Upptime <https://github.com/upptime/upptime>
