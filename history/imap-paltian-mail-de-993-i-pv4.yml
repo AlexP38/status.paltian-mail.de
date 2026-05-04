@@ -1,7 +1,7 @@
 url: imap.paltian-mail.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-04T00:04:21.980Z
+status: up
+code: 200
+responseTime: 147
+lastUpdated: 2026-05-04T01:08:06.563Z
 startTime: 2025-11-14T17:09:48.209Z
 generator: Upptime <https://github.com/upptime/upptime>
