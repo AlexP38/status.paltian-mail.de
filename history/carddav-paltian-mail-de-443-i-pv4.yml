@@ -1,7 +1,7 @@
 url: carddav.paltian-mail.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-05-12T21:03:14.586Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2026-05-12T21:30:29.090Z
 startTime: 2025-11-14T17:10:20.444Z
 generator: Upptime <https://github.com/upptime/upptime>
