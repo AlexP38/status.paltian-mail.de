@@ -1,7 +1,7 @@
 url: api.paltian-mail.de
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-06-26T19:10:52.815Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2026-06-26T19:37:56.615Z
 startTime: 2025-11-14T16:56:41.667Z
 generator: Upptime <https://github.com/upptime/upptime>
