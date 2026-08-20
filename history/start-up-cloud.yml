@@ -1,7 +1,7 @@
 url: https://cloud.paltian.net
-status: up
-code: 200
-responseTime: 1044
-lastUpdated: 2026-08-19T23:16:30.729Z
+status: down
+code: 502
+responseTime: 351
+lastUpdated: 2026-08-20T03:10:51.435Z
 startTime: 2025-11-14T16:50:22.003Z
 generator: Upptime <https://github.com/upptime/upptime>
