@@ -4,17 +4,17 @@
     "url": "https://cloud.paltian.net",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.paltian.net.ico",
     "slug": "start-up-cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.53%",
-    "time": 1046,
-    "timeDay": 1112,
-    "timeWeek": 1239,
-    "timeMonth": 1176,
-    "timeYear": 1046,
+    "time": 1045,
+    "timeDay": 775,
+    "timeWeek": 1139,
+    "timeMonth": 1155,
+    "timeYear": 1045,
     "dailyMinutesDown": {
       "2025-11-17": 96,
       "2025-11-20": 98,
@@ -84,7 +84,8 @@
       "2026-08-21": 47,
       "2026-08-23": 43,
       "2026-08-26": 49,
-      "2026-08-29": 42
+      "2026-08-29": 42,
+      "2026-09-24": 0
     }
   },
   {
