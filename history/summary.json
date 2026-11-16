@@ -97,17 +97,17 @@
     "url": "https://wollwerk.org",
     "icon": "https://icons.duckduckgo.com/ip3/wollwerk.org.ico",
     "slug": "wollwerk",
-    "status": "down",
-    "uptime": "99.66%",
-    "uptimeDay": "98.11%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.66%",
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "57.27%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "99.54%",
     "time": 1060,
-    "timeDay": 591,
-    "timeWeek": 797,
-    "timeMonth": 1056,
-    "timeYear": 1055,
+    "timeDay": 709,
+    "timeWeek": 814,
+    "timeMonth": 1052,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-12-29": 88,
       "2026-02-13": 22,
@@ -119,7 +119,7 @@
       "2026-08-26": 49,
       "2026-10-09": 83,
       "2026-10-08": 146,
-      "2026-11-16": 27
+      "2026-11-16": 615
     }
   },
   {
@@ -293,16 +293,16 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv4",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "87.56%",
-    "uptimeWeek": "91.21%",
-    "uptimeMonth": "97.85%",
-    "uptimeYear": "99.55%",
+    "status": "up",
+    "uptime": "99.45%",
+    "uptimeDay": "53.20%",
+    "uptimeWeek": "85.38%",
+    "uptimeMonth": "96.51%",
+    "uptimeYear": "99.44%",
     "time": 125,
     "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 124,
+    "timeWeek": 138,
+    "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-11-22": 25,
@@ -325,7 +325,7 @@
       "2026-11-13": 119,
       "2026-11-14": 216,
       "2026-11-15": 464,
-      "2026-11-16": 86
+      "2026-11-16": 674
     }
   },
   {
@@ -333,14 +333,14 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv6",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "88.40%",
-    "uptimeWeek": "91.52%",
-    "uptimeMonth": "97.93%",
-    "uptimeYear": "99.61%",
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "54.05%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.59%",
+    "uptimeYear": "99.50%",
     "time": 125,
-    "timeDay": 137,
+    "timeDay": 136,
     "timeWeek": 137,
     "timeMonth": 125,
     "timeYear": 125,
@@ -362,7 +362,7 @@
       "2026-11-13": 113,
       "2026-11-14": 210,
       "2026-11-15": 458,
-      "2026-11-16": 74
+      "2026-11-16": 662
     }
   },
   {
@@ -489,16 +489,16 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv4",
-    "status": "down",
-    "uptime": "99.62%",
-    "uptimeDay": "89.25%",
-    "uptimeWeek": "91.82%",
-    "uptimeMonth": "98.02%",
-    "uptimeYear": "99.62%",
+    "status": "up",
+    "uptime": "99.51%",
+    "uptimeDay": "54.89%",
+    "uptimeWeek": "85.98%",
+    "uptimeMonth": "96.68%",
+    "uptimeYear": "99.51%",
     "time": 125,
-    "timeDay": 137,
+    "timeDay": 136,
     "timeWeek": 138,
-    "timeMonth": 125,
+    "timeMonth": 126,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-11-22": 25,
@@ -516,7 +516,7 @@
       "2026-11-13": 107,
       "2026-11-14": 204,
       "2026-11-15": 452,
-      "2026-11-16": 61
+      "2026-11-16": 649
     }
   },
   {
@@ -524,15 +524,15 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv6",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "90.09%",
-    "uptimeWeek": "92.12%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.63%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "55.74%",
+    "uptimeWeek": "86.28%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "99.52%",
     "time": 126,
     "timeDay": 134,
-    "timeWeek": 136,
+    "timeWeek": 137,
     "timeMonth": 125,
     "timeYear": 126,
     "dailyMinutesDown": {
@@ -551,7 +551,7 @@
       "2026-11-13": 101,
       "2026-11-14": 198,
       "2026-11-15": 446,
-      "2026-11-16": 49
+      "2026-11-16": 637
     }
   },
   {
@@ -857,7 +857,7 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "checkout-paltian-mail-de-ssl",
     "status": "up",
-    "uptime": "96.06%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
