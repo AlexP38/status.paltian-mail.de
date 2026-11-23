@@ -97,12 +97,12 @@
     "status": "up",
     "uptime": "99.55%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.90%",
+    "uptimeWeek": "95.20%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.54%",
     "time": 1054,
     "timeDay": 1082,
-    "timeWeek": 757,
+    "timeWeek": 786,
     "timeMonth": 798,
     "timeYear": 1049,
     "dailyMinutesDown": {
@@ -287,12 +287,12 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "67.34%",
-    "uptimeWeek": "79.82%",
-    "uptimeMonth": "93.26%",
-    "uptimeYear": "99.18%",
+    "uptimeDay": "75.48%",
+    "uptimeWeek": "80.85%",
+    "uptimeMonth": "93.21%",
+    "uptimeYear": "99.17%",
     "time": 124,
     "timeDay": 153,
     "timeWeek": 116,
@@ -322,7 +322,8 @@
       "2026-11-17": 176,
       "2026-11-20": 651,
       "2026-11-19": 127,
-      "2026-11-22": 470
+      "2026-11-22": 470,
+      "2026-11-23": 21
     }
   },
   {
@@ -330,11 +331,11 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv6",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "67.76%",
-    "uptimeWeek": "80.12%",
-    "uptimeMonth": "93.40%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "75.90%",
+    "uptimeWeek": "81.15%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.23%",
     "time": 125,
     "timeDay": 154,
@@ -362,7 +363,8 @@
       "2026-11-17": 170,
       "2026-11-20": 645,
       "2026-11-19": 121,
-      "2026-11-22": 464
+      "2026-11-22": 464,
+      "2026-11-23": 15
     }
   },
   {
@@ -488,11 +490,11 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv4",
-    "status": "up",
+    "status": "down",
     "uptime": "99.26%",
-    "uptimeDay": "68.19%",
-    "uptimeWeek": "80.42%",
-    "uptimeMonth": "93.53%",
+    "uptimeDay": "76.32%",
+    "uptimeWeek": "81.45%",
+    "uptimeMonth": "93.51%",
     "uptimeYear": "99.25%",
     "time": 124,
     "timeDay": 153,
@@ -518,7 +520,8 @@
       "2026-11-17": 164,
       "2026-11-20": 638,
       "2026-11-19": 115,
-      "2026-11-22": 458
+      "2026-11-22": 458,
+      "2026-11-23": 9
     }
   },
   {
@@ -526,10 +529,10 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv6",
-    "status": "up",
+    "status": "down",
     "uptime": "99.27%",
-    "uptimeDay": "68.61%",
-    "uptimeWeek": "80.73%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "81.75%",
     "uptimeMonth": "93.67%",
     "uptimeYear": "99.26%",
     "time": 125,
@@ -556,7 +559,8 @@
       "2026-11-17": 158,
       "2026-11-20": 632,
       "2026-11-19": 109,
-      "2026-11-22": 452
+      "2026-11-22": 452,
+      "2026-11-23": 3
     }
   },
   {
