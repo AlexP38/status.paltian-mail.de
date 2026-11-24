@@ -287,15 +287,15 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv4",
-    "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "46.75%",
-    "uptimeWeek": "80.01%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.03%",
+    "status": "up",
+    "uptime": "98.96%",
+    "uptimeDay": "37.49%",
+    "uptimeWeek": "74.89%",
+    "uptimeMonth": "90.33%",
+    "uptimeYear": "98.93%",
     "time": 124,
     "timeDay": 92,
-    "timeWeek": 107,
+    "timeWeek": 105,
     "timeMonth": 118,
     "timeYear": 124,
     "dailyMinutesDown": {
@@ -324,7 +324,7 @@
       "2026-11-19": 127,
       "2026-11-22": 470,
       "2026-11-23": 709,
-      "2026-11-24": 58
+      "2026-11-24": 574
     }
   },
   {
@@ -332,15 +332,15 @@
     "url": "smtp.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "smtp-paltian-mail-de-25-i-pv6",
-    "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "47.60%",
-    "uptimeWeek": "80.31%",
-    "uptimeMonth": "91.67%",
-    "uptimeYear": "99.09%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "37.91%",
+    "uptimeWeek": "75.19%",
+    "uptimeMonth": "90.49%",
+    "uptimeYear": "98.99%",
     "time": 125,
     "timeDay": 92,
-    "timeWeek": 106,
+    "timeWeek": 105,
     "timeMonth": 118,
     "timeYear": 125,
     "dailyMinutesDown": {
@@ -366,7 +366,7 @@
       "2026-11-19": 121,
       "2026-11-22": 464,
       "2026-11-23": 702,
-      "2026-11-24": 52
+      "2026-11-24": 568
     }
   },
   {
@@ -492,16 +492,16 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv4",
-    "status": "down",
-    "uptime": "99.13%",
-    "uptimeDay": "48.45%",
-    "uptimeWeek": "80.61%",
-    "uptimeMonth": "91.84%",
-    "uptimeYear": "99.11%",
+    "status": "up",
+    "uptime": "99.03%",
+    "uptimeDay": "38.34%",
+    "uptimeWeek": "75.49%",
+    "uptimeMonth": "90.66%",
+    "uptimeYear": "99.01%",
     "time": 124,
     "timeDay": 92,
-    "timeWeek": 106,
-    "timeMonth": 119,
+    "timeWeek": 105,
+    "timeMonth": 118,
     "timeYear": 124,
     "dailyMinutesDown": {
       "2025-12-15": 40,
@@ -524,7 +524,7 @@
       "2026-11-19": 115,
       "2026-11-22": 458,
       "2026-11-23": 696,
-      "2026-11-24": 46
+      "2026-11-24": 562
     }
   },
   {
@@ -532,16 +532,16 @@
     "url": "mx.paltian-mail.de",
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "mx-paltian-mail-de-25-i-pv6",
-    "status": "down",
-    "uptime": "99.14%",
-    "uptimeDay": "49.30%",
-    "uptimeWeek": "80.91%",
-    "uptimeMonth": "92.01%",
-    "uptimeYear": "99.12%",
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "38.76%",
+    "uptimeWeek": "75.79%",
+    "uptimeMonth": "90.83%",
+    "uptimeYear": "99.03%",
     "time": 125,
-    "timeDay": 91,
-    "timeWeek": 106,
-    "timeMonth": 118,
+    "timeDay": 92,
+    "timeWeek": 105,
+    "timeMonth": 117,
     "timeYear": 125,
     "dailyMinutesDown": {
       "2025-12-15": 40,
@@ -564,7 +564,7 @@
       "2026-11-19": 109,
       "2026-11-22": 452,
       "2026-11-23": 690,
-      "2026-11-24": 40
+      "2026-11-24": 556
     }
   },
   {
@@ -780,7 +780,7 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "caldav-paltian-mail-de-ssl",
     "status": "up",
-    "uptime": "96.14%",
+    "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -816,7 +816,7 @@
     "icon": "https://raw.githubusercontent.com/forwardemail/forwardemail.net/master/assets/img/favicon.ico",
     "slug": "carddav-paltian-mail-de-ssl",
     "status": "up",
-    "uptime": "96.14%",
+    "uptime": "96.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
